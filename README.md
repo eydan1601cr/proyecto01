@@ -9,4 +9,4 @@ Grupo 10-3 de Aplicaciones Moviles
 - Kotlin
 - Mysql
 
-![Logo Kotlin](imagenes/lenguaje-de-programacion-Kotlin-logo.jpg)
+![Logo Kotlin](imagenes/R.png)
